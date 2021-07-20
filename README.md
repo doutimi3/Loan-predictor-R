@@ -19,17 +19,18 @@ Description of the Dataset
 The data used for this project was downloaded from Kaggle on: https://www.kaggle.com/search?q=loan+data+set. It represents a partial dataset provided by Dream Housing Finance Company which deals on providing home loans services. It contains records of customer detail provided while filling online loan application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. The data consists of 613 rows and 13 variables. 
 
 ## VARIABLE	DESCRIPTION
-Loan_ID	Unique identification number for each applicants record
-Gender	The sex of the applicant
-Married	Whether the applicant is married ("Yes") or not ("No").
-Dependents	The number of dependants an applicant has 
-Education	The level education of the applicant. 
-Self_Employed	Whether or not the applicant is self employed
-ApplicantIncome	The applicant Annual Income (in USD)
-CoapplicantIncome	The coapplicant Annual Income (in USD)
-LoanAmount	Total worth of the loan (in USD) for which the application was submitted.
-Loan_Amount_Term	The tenor of the loan in days
-Credit_History	Whether the applicants’ credit score is good ("1") or not ("0").
-Property_Area	The type of settlement were the house the applicant is apply to take on loan is located
-Loan_Status	Whether the loan application was approved ("Y") or not ("N")
+•	Loan_ID:	Unique identification number for each applicants record
+•	Gender:	The sex of the applicant
+•	Married:	Whether the applicant is married ("Yes") or not ("No").
+•	Dependents:	The number of dependants an applicant has 
+•	Education:	The level education of the applicant. 
+•	Self_Employed:	Whether or not the applicant is self employed
+•	ApplicantIncome:	The applicant Annual Income (in USD)
+•	CoapplicantIncome:	The coapplicant Annual Income (in USD)
+•	LoanAmount:	Total worth of the loan (in USD) for which the application was submitted.
+•	Loan_Amount_Term:	The tenor of the loan in days
+•	Credit_History:	Whether the applicants’ credit score is good ("1") or not ("0").
+•	Property_Area:	The type of settlement were the house the applicant is apply to take on loan is located
+•	Loan_Status:	Whether the loan application was approved ("Y") or not ("N")
+
 
